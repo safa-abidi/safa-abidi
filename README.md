@@ -25,6 +25,3 @@ My name is Safa Abidi and I am a software engineering etudent at INSAT, I'm pass
 <a href="https://github.com/safa-abidi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa-abidi&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/safa-abidi">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=safa-abidi&show_icons=true&theme=light&line_height=27" alt="Safa's github stats"/>
-</a>
