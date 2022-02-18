@@ -19,9 +19,3 @@ My name is Safa Abidi and I am a software engineering etudent at INSAT, I'm pass
 ![safa-abidi GitHub stats](https://github-readme-stats.vercel.app/api?username=safa-abidi&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safa-abidi&theme=radical)](https://git.io/streak-stats) 
 ![safa-abidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safa-abidi&layout=compact&theme=radical)
-
-## Languages and tools
-
-<a href="https://github.com/safa-abidi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa-abidi&theme=light&hide_langs_below=1" />
-</a>
