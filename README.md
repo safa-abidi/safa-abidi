@@ -21,8 +21,8 @@ My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safa-abidi&theme=tokyonight)](https://git.io/streak-stats) 
 ![safa-abidi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safa-abidi&layout=compact&theme=tokyonight)
 
----
-<summary><b>⚡ Recent GitHub Activity</b></summary>
+---------------------------------------------------------------------------------------------------------------
+## Recent GitHub Activity
   <br/>
    <a href="https://github.com/safa-abidi"><img alt="safa-abidi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=safa-abidi&custom_title=safa-abidi's%20Contribution%20Graph&theme=tokyonight" /></a>
   <br/>
