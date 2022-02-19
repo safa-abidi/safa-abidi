@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-My name is Safa Abidi and I am a software engineering etudent at INSAT, I'm passionate about learning new technologies and making mobile apps!
+My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
 
 
 - 🌱 I’m currently learning Flutter and NestJs.
