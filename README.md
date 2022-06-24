@@ -4,10 +4,9 @@
 My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
 
 
-- 🌱 I’m currently learning Flutter and NestJs.
-- 🔭 I’m currently working on a mobile app for a school project.
-- ⚡ I like to read, learn spanish, and draw.
-- 🤔 I’m currently open for a new internship opportunity
+- 🌱 I’m currently learning React Native.
+- 🔭 I’m currently working on a mobile app for my summer internship @[Winshot](https://www.winshot.net/).
+- ⚡ I like to read, learn spanish.
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
@@ -23,6 +22,4 @@ My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passi
 
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
-  <br/>
    <a href="https://github.com/safa-abidi"><img alt="safa-abidi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=safa-abidi&custom_title=safa-abidi's%20Contribution%20Graph&theme=tokyonight" /></a>
-  <br/>
