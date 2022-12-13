@@ -22,4 +22,4 @@ My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passi
 
 ---------------------------------------------------------------------------------------------------------------
 ## Recent GitHub Activity
-   <a href="https://github.com/safa-abidi"><img alt="safa-abidi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=safa-abidi&custom_title=safa-abidi's%20Contribution%20Graph&theme=tokyonight" /></a>
+   <a href="https://github.com/safa-abidi"><img alt="safa-abidi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=safa-abidi&custom_title=safa-abidi's%20Contribution%20Graph&theme=rogue" /></a>
