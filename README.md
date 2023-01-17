@@ -3,6 +3,7 @@
 
 My name is Safa Abidi and I'm a software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
 
+<img src="https://komarev.com/ghpvc/?username=safa-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="safa-abidi"/> 
 
 - 🌱 I’m currently learning Angular.
 - 🔭 I’m currently working on two school projects.
