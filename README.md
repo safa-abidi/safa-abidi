@@ -8,7 +8,7 @@ My name is Safa Laabidi and I'm a 4th year software engineering student at INSAT
 </a>
 
 - 🌱 I’m currently learning deep learning.
-- 🔭 I’m currently working on few school projects.
+- 🔭 I’m currently working on a NLP project.
 - ⚡ I like to read & learn spanish.
 
 
