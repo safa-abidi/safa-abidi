@@ -4,7 +4,7 @@
 My name is Safa Abidi and I'm a 4th year software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Devops+Enthusiast;Mobile+Developer&center=false&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;DevOps+Enthusiast;Mobile+Developer&center=false&width=500&height=50">
 </a>
 
 - 🌱 I’m currently learning DevOps.
@@ -24,7 +24,8 @@ My name is Safa Abidi and I'm a 4th year software engineering student at INSAT, 
 ---------------------------------------------------------------------------------------------------------------
 
 ## Recent GitHub Activity
-   <a href="https://github.com/safa-abidi"><img alt="safa-abidi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=safa-abidi&custom_title=safa-abidi's%20Contribution%20Graph&theme=rogue" /></a>
+
+   [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=safa-abidi&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---------------------------------------------------------------------------------------------------------------
 ## Trophies
