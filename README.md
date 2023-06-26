@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-My name is Safa Abidi and I'm a 4th year software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
+My name is Safa Abidi and I'm a final-year software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;DevOps+Enthusiast;Mobile+Developer&center=false&width=500&height=50">
