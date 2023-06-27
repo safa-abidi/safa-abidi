@@ -8,7 +8,7 @@ My name is Safa Abidi and I'm a final-year software engineering student at INSAT
 </a>
 
 - 🌱 I’m currently learning DevOps.
-- 🔭 I’m currently working on the [Scaylab](https://www.scaylab.fr/) web application using NestJs & ReactJs.
+- 🔭 I’m currently working on the [Scaylab](https://www.scaylab.fr/) web application using NestJs & ReactJs for my summer internship.
 - ⚡ I like to read & learn spanish.
 
 
