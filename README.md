@@ -1,12 +1,13 @@
 
 ## Hi there 👋
 
-My name is Safa Abidi and I'm a final-year software engineering student at INSAT, I'm passionate about learning new technologies and making mobile apps!
+I am a passionate software engineering student with a drive for innovation and a penchant for solving problems. Eager to create cutting-edge solutions that make a positive impact. 🚀
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;DevOps+Enthusiast;Mobile+Developer&center=false&width=500&height=50">
 </a>
 
+- 🎓 Currently pursuing an engineering diploma in software engineering at INSAT, looking for an end-of-studies internship.
 - 🌱 I’m currently learning DevOps.
 - 🔭 I’m currently working on the [Scaylab](https://www.scaylab.fr/) web application using NestJs & ReactJs.
 - ⚡ I like to read & learn spanish.
