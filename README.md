@@ -9,7 +9,7 @@ I am a passionate software engineering student with a drive for innovation and a
 
 - 🎓 Currently pursuing an engineering diploma in software engineering at INSAT, looking for an end-of-studies internship.
 - 🌱 I’m currently learning DevOps.
-- 🔭 I’m currently working on the [Scaylab](https://www.scaylab.fr/) web application using NestJs & ReactJs.
+- 🔭 I’m currently working on the [Scaylab](https://www.scaylab.fr/) web application using NestJs & ReactJs for my summer internship.
 - ⚡ I like to read & learn spanish.
 
 
