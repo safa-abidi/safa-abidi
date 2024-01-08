@@ -9,7 +9,7 @@ I am a passionate software engineering student with a drive for innovation and a
 
 - 🎓 Currently pursuing an engineering diploma in software engineering at INSAT, looking for an end-of-studies internship.
 - 🌱 I’m currently learning DevOps.
-- ⚡ I like to read & learn spanish.
+- ⚡ I like to read, and learn Spanish.
 
 
 <img src="https://komarev.com/ghpvc/?username=safa-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="safa-abidi"/> 
