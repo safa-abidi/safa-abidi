@@ -9,7 +9,7 @@ I am a passionate software engineering student with a drive for innovation and a
 
 - 🎓 Currently pursuing an engineering diploma in software engineering at INSAT.
 - 🌱 I’m currently learning DevOps.
-- ⚡ I like to read fiction, and learn Spanish.
+- ⚡ I like to read fantasy, and learn Spanish.
 
 
 <img src="https://komarev.com/ghpvc/?username=safa-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="safa-abidi"/> 
