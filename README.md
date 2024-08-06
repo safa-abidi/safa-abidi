@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I am a passionate software engineering student with a drive for innovation and a penchant for solving problems. Eager to create cutting-edge solutions that make a positive impact. 🚀
+I am a passionate software engineering student with a drive for innovation and a penchant for solving problems. Eager to create solutions that make a positive impact. 🚀
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;DevOps+Enthusiast;Full+Stack+Developer&center=false&width=500&height=50">
