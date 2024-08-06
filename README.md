@@ -4,12 +4,13 @@
 I am a passionate software engineering student with a drive for innovation and a penchant for solving problems. Eager to create cutting-edge solutions that make a positive impact. 🚀
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;DevOps+Enthusiast;Mobile+Developer&center=false&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;DevOps+Enthusiast;Full+Stack+Web+Developer&center=false&width=500&height=50">
 </a>
 
 - 🎓 Currently pursuing an engineering diploma in software engineering at INSAT.
-- 🌱 I’m currently learning DevOps.
-- ⚡ I like to read fantasy, and learn Spanish.
+- 🌱 I’m currently learning Cloud and DevOps.
+- ⚡ I like to read fantasy and learn Spanish.
+- 🚀 I'm ready for new challenges and keen to explore emerging technologies
 
 
 <img src="https://komarev.com/ghpvc/?username=safa-abidi&label=Profile%20views&color=0e75b6&style=flat" alt="safa-abidi"/> 
