@@ -4,7 +4,7 @@
 I am a passionate software engineering student with a drive for innovation and a penchant for solving problems. Eager to create cutting-edge solutions that make a positive impact. 🚀
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;DevOps+Enthusiast;Full+Stack+Web+Developer&center=false&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;DevOps+Enthusiast;Full+Stack+Developer&center=false&width=500&height=50">
 </a>
 
 - 🎓 Currently pursuing an engineering diploma in software engineering at INSAT.
